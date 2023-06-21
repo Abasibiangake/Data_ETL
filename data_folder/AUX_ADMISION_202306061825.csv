@@ -1,0 +1,393 @@
+"Anio","id_sede","nombre_sede","Total"
+2011,17,Los Olivos 1 - Villa Sol,111
+2011,28,Villa El Salvador - Laderas de Villa,232
+2011,12,Chorrillos 1 - Villa,196
+2011,22,San Miguel 1,211
+2011,26,Chorrillos 3 - Faisanes,266
+2012,17,Los Olivos 1 - Villa Sol,136
+2012,28,Villa El Salvador - Laderas de Villa,239
+2012,12,Chorrillos 1 - Villa,291
+2012,22,San Miguel 1,348
+2012,26,Chorrillos 3 - Faisanes,444
+2012,5,SJL 2 - Canto Grande,531
+2012,2,Callao 1 - Saenz Peña,353
+2012,6,Carabayllo 1 - Enace,385
+2012,21,SMP 1 - Perú,386
+2012,24,Ate 1 - Santa Clara,410
+2012,8,Chaclacayo,188
+2013,17,Los Olivos 1 - Villa Sol,97
+2013,28,Villa El Salvador - Laderas de Villa,179
+2013,12,Chorrillos 1 - Villa,304
+2013,22,San Miguel 1,150
+2013,23,San Miguel 2,235
+2013,26,Chorrillos 3 - Faisanes,317
+2013,3,SJL 1 - Campoy,356
+2013,5,SJL 2 - Canto Grande,149
+2013,2,Callao 1 - Saenz Peña,238
+2013,6,Carabayllo 1 - Enace,225
+2013,21,SMP 1 - Perú,258
+2013,24,Ate 1 - Santa Clara,286
+2013,8,Chaclacayo,163
+2013,25,Rimac 1 - Santo Toribio,259
+2013,30,Rimac 2 - Sporting Cristal,253
+2013,29,Ate 2 - Vitarte,163
+2013,19,Ate 3 - Puruchuco,283
+2013,10,Chimbote,474
+2013,11,Chincha,158
+2014,17,Los Olivos 1 - Villa Sol,147
+2014,28,Villa El Salvador - Laderas de Villa,142
+2014,12,Chorrillos 1 - Villa,300
+2014,22,San Miguel 1,177
+2014,23,San Miguel 2,108
+2014,26,Chorrillos 3 - Faisanes,251
+2014,3,SJL 1 - Campoy,288
+2014,5,SJL 2 - Canto Grande,201
+2014,2,Callao 1 - Saenz Peña,321
+2014,6,Carabayllo 1 - Enace,281
+2014,21,SMP 1 - Perú,228
+2014,24,Ate 1 - Santa Clara,282
+2014,8,Chaclacayo,113
+2014,25,Rimac 1 - Santo Toribio,337
+2014,30,Rimac 2 - Sporting Cristal,309
+2014,29,Ate 2 - Vitarte,266
+2014,19,Ate 3 - Puruchuco,284
+2014,10,Chimbote,227
+2014,11,Chincha,145
+2014,16,Chorrillos 4 - La Campiña,385
+2014,13,Comas 1 - Condorcanqui,355
+2014,9,Chiclayo,250
+2014,14,Huacho,274
+2015,17,Los Olivos 1 - Villa Sol,91
+2015,28,Villa El Salvador - Laderas de Villa,129
+2015,12,Chorrillos 1 - Villa,177
+2015,22,San Miguel 1,119
+2015,23,San Miguel 2,71
+2015,26,Chorrillos 3 - Faisanes,68
+2015,3,SJL 1 - Campoy,254
+2015,5,SJL 2 - Canto Grande,146
+2015,2,Callao 1 - Saenz Peña,255
+2015,6,Carabayllo 1 - Enace,329
+2015,21,SMP 1 - Perú,193
+2015,24,Ate 1 - Santa Clara,305
+2015,8,Chaclacayo,109
+2015,25,Rimac 1 - Santo Toribio,284
+2015,30,Rimac 2 - Sporting Cristal,248
+2015,29,Ate 2 - Vitarte,246
+2015,19,Ate 3 - Puruchuco,279
+2015,10,Chimbote,260
+2015,11,Chincha,147
+2015,16,Chorrillos 4 - La Campiña,439
+2015,13,Comas 1 - Condorcanqui,314
+2015,9,Chiclayo,176
+2015,14,Huacho,150
+2015,1,Arequipa 1 - Bustamante y Rivero,376
+2015,15,Ica,293
+2015,27,Tacna,365
+2015,18,Piura 1 - Los Ejidos,320
+2015,7,Cercado 1 - Sanchez Pinillos,363
+2015,4,SMP 2 - Canta Callao,328
+2016,17,Los Olivos 1 - Villa Sol,139
+2016,28,Villa El Salvador - Laderas de Villa,97
+2016,12,Chorrillos 1 - Villa,147
+2016,22,San Miguel 1,121
+2016,23,San Miguel 2,39
+2016,26,Chorrillos 3 - Faisanes,129
+2016,3,SJL 1 - Campoy,215
+2016,5,SJL 2 - Canto Grande,161
+2016,2,Callao 1 - Saenz Peña,211
+2016,6,Carabayllo 1 - Enace,320
+2016,21,SMP 1 - Perú,157
+2016,24,Ate 1 - Santa Clara,291
+2016,8,Chaclacayo,112
+2016,25,Rimac 1 - Santo Toribio,320
+2016,30,Rimac 2 - Sporting Cristal,275
+2016,29,Ate 2 - Vitarte,283
+2016,19,Ate 3 - Puruchuco,294
+2016,10,Chimbote,269
+2016,11,Chincha,102
+2016,16,Chorrillos 4 - La Campiña,313
+2016,13,Comas 1 - Condorcanqui,324
+2016,9,Chiclayo,197
+2016,14,Huacho,148
+2016,1,Arequipa 1 - Bustamante y Rivero,353
+2016,15,Ica,178
+2016,27,Tacna,425
+2016,18,Piura 1 - Los Ejidos,261
+2016,7,Cercado 1 - Sanchez Pinillos,416
+2016,4,SMP 2 - Canta Callao,297
+2016,37,Chorrillos 6 - Universo 2,344
+2016,38,Trujillo 1 - El Golf,318
+2016,39,San Miguel La Paz 2,309
+2016,34,Arequipa 2 - Cerro Colorado,293
+2016,36,Pueblo Libre - Bertello,291
+2016,35,Huancayo,340
+2017,17,Los Olivos 1 - Villa Sol,160
+2017,28,Villa El Salvador - Laderas de Villa,132
+2017,12,Chorrillos 1 - Villa,183
+2017,22,San Miguel 1,139
+2017,23,San Miguel 2,34
+2017,26,Chorrillos 3 - Faisanes,168
+2017,3,SJL 1 - Campoy,292
+2017,5,SJL 2 - Canto Grande,170
+2017,2,Callao 1 - Saenz Peña,219
+2017,6,Carabayllo 1 - Enace,317
+2017,21,SMP 1 - Perú,162
+2017,24,Ate 1 - Santa Clara,265
+2017,8,Chaclacayo,104
+2017,25,Rimac 1 - Santo Toribio,247
+2017,30,Rimac 2 - Sporting Cristal,241
+2017,29,Ate 2 - Vitarte,243
+2017,19,Ate 3 - Puruchuco,226
+2017,10,Chimbote,298
+2017,11,Chincha,86
+2017,16,Chorrillos 4 - La Campiña,218
+2017,13,Comas 1 - Condorcanqui,343
+2017,9,Chiclayo,246
+2017,14,Huacho,159
+2017,1,Arequipa 1 - Bustamante y Rivero,361
+2017,15,Ica,168
+2017,27,Tacna,402
+2017,18,Piura 1 - Los Ejidos,174
+2017,7,Cercado 1 - Sanchez Pinillos,420
+2017,4,SMP 2 - Canta Callao,328
+2017,47,Chorrillos 5 - Universo 1,78
+2017,37,Chorrillos 6 - Universo 2,174
+2017,38,Trujillo 1 - El Golf,237
+2017,42,San Miguel La Paz 1,238
+2017,39,San Miguel La Paz 2,72
+2017,34,Arequipa 2 - Cerro Colorado,321
+2017,36,Pueblo Libre - Bertello,397
+2017,35,Huancayo,305
+2017,41,SJL 3 - Arabiscos,481
+2017,45,Chorrillos 2 - Horizontes,302
+2017,43,Surco 1 - Ambrosio,370
+2017,44,Trujillo 2 - Santa,330
+2018,17,Los Olivos 1 - Villa Sol,125
+2018,28,Villa El Salvador - Laderas de Villa,113
+2018,12,Chorrillos 1 - Villa,163
+2018,22,San Miguel 1,135
+2018,23,San Miguel 2,47
+2018,26,Chorrillos 3 - Faisanes,173
+2018,3,SJL 1 - Campoy,232
+2018,5,SJL 2 - Canto Grande,156
+2018,2,Callao 1 - Saenz Peña,190
+2018,6,Carabayllo 1 - Enace,240
+2018,21,SMP 1 - Perú,152
+2018,24,Ate 1 - Santa Clara,228
+2018,8,Chaclacayo,94
+2018,25,Rimac 1 - Santo Toribio,205
+2018,30,Rimac 2 - Sporting Cristal,201
+2018,29,Ate 2 - Vitarte,213
+2018,19,Ate 3 - Puruchuco,207
+2018,10,Chimbote,255
+2018,11,Chincha,68
+2018,16,Chorrillos 4 - La Campiña,190
+2018,13,Comas 1 - Condorcanqui,252
+2018,9,Chiclayo,221
+2018,14,Huacho,178
+2018,1,Arequipa 1 - Bustamante y Rivero,290
+2018,15,Ica,128
+2018,27,Tacna,299
+2018,18,Piura 1 - Los Ejidos,145
+2018,7,Cercado 1 - Sanchez Pinillos,346
+2018,4,SMP 2 - Canta Callao,334
+2018,47,Chorrillos 5 - Universo 1,121
+2018,37,Chorrillos 6 - Universo 2,138
+2018,38,Trujillo 1 - El Golf,188
+2018,42,San Miguel La Paz 1,240
+2018,39,San Miguel La Paz 2,45
+2018,34,Arequipa 2 - Cerro Colorado,310
+2018,36,Pueblo Libre - Bertello,437
+2018,35,Huancayo,239
+2018,41,SJL 3 - Arabiscos,355
+2018,45,Chorrillos 2 - Horizontes,194
+2018,43,Surco 1 - Ambrosio,375
+2018,44,Trujillo 2 - Santa,278
+2018,54,Ate 4 - Santa María,102
+2018,50,Callao 2 - Lemos,288
+2018,51,SJL 4 - El Sol,415
+2018,53,Carabayllo 2 - San Antonio,236
+2018,52,Comas 2 - El Retablo,318
+2018,55,Los Olivos 2 - Santa Ana,428
+2018,49,Arequipa 3 - Sachaca,122
+2018,48,Cusco 1 - Larapa,533
+2019,17,Los Olivos 1 - Villa Sol,128
+2019,28,Villa El Salvador - Laderas de Villa,109
+2019,12,Chorrillos 1 - Villa,156
+2019,22,San Miguel 1,143
+2019,23,San Miguel 2,33
+2019,26,Chorrillos 3 - Faisanes,127
+2019,3,SJL 1 - Campoy,214
+2019,5,SJL 2 - Canto Grande,244
+2019,2,Callao 1 - Saenz Peña,203
+2019,6,Carabayllo 1 - Enace,174
+2019,21,SMP 1 - Perú,172
+2019,24,Ate 1 - Santa Clara,212
+2019,8,Chaclacayo,97
+2019,25,Rimac 1 - Santo Toribio,215
+2019,30,Rimac 2 - Sporting Cristal,146
+2019,29,Ate 2 - Vitarte,242
+2019,19,Ate 3 - Puruchuco,195
+2019,10,Chimbote,265
+2019,11,Chincha,78
+2019,16,Chorrillos 4 - La Campiña,179
+2019,13,Comas 1 - Condorcanqui,208
+2019,9,Chiclayo,213
+2019,14,Huacho,154
+2019,1,Arequipa 1 - Bustamante y Rivero,347
+2019,15,Ica,124
+2019,27,Tacna,275
+2019,18,Piura 1 - Los Ejidos,184
+2019,7,Cercado 1 - Sanchez Pinillos,316
+2019,4,SMP 2 - Canta Callao,254
+2019,47,Chorrillos 5 - Universo 1,126
+2019,37,Chorrillos 6 - Universo 2,90
+2019,38,Trujillo 1 - El Golf,206
+2019,42,San Miguel La Paz 1,220
+2019,39,San Miguel La Paz 2,45
+2019,34,Arequipa 2 - Cerro Colorado,262
+2019,36,Pueblo Libre - Bertello,300
+2019,35,Huancayo,219
+2019,41,SJL 3 - Arabiscos,291
+2019,45,Chorrillos 2 - Horizontes,132
+2019,43,Surco 1 - Ambrosio,282
+2019,44,Trujillo 2 - Santa,226
+2019,54,Ate 4 - Santa María,131
+2019,50,Callao 2 - Lemos,241
+2019,51,SJL 4 - El Sol,318
+2019,53,Carabayllo 2 - San Antonio,209
+2019,52,Comas 2 - El Retablo,315
+2019,55,Los Olivos 2 - Santa Ana,284
+2019,49,Arequipa 3 - Sachaca,122
+2019,48,Cusco 1 - Larapa,335
+2019,56,Tarapoto 1 - Fonavi,499
+2019,57,Pucallpa 1 - Centenario,354
+2019,59,Moquegua 1 - Fundo El Gramadal,358
+2019,58,Cusco 2 - Huancaro,343
+2019,60,Piura 2 - Progreso,149
+2020,1,Arequipa 1 - Bustamante y Rivero,274
+2020,2,Callao 1 - Saenz Peña,175
+2020,3,SJL 1 - Campoy,208
+2020,4,SMP 2 - Canta Callao,269
+2020,5,SJL 2 - El Parque,221
+2020,6,Carabayllo 1 - Enace,210
+2020,7,Cercado 1 - Sanchez Pinillos,291
+2020,8,Chaclacayo,112
+2020,9,Chiclayo,215
+2020,10,Chimbote,279
+2020,11,Chincha,112
+2020,12,Chorrillos 1 - Villa,169
+2020,13,Comas 1 - Condorcanqui,210
+2020,14,Huacho,166
+2020,15,Ica,137
+2020,16,Chorrillos 4 - La Campiña,194
+2020,17,Los Olivos 1 - Villa Sol,119
+2020,18,Piura 1 - Los Ejidos,193
+2020,19,Ate 3 - Puruchuco,263
+2020,21,SMP 1 - Perú,194
+2020,22,San Miguel 1,153
+2020,23,San Miguel 2,31
+2020,24,Ate 1 - Santa Clara,238
+2020,25,Rimac 1 - Santo Toribio,209
+2020,26,Chorrillos 3 - Faisanes,142
+2020,27,Tacna,280
+2020,28,Villa El Salvador - Laderas de Villa,115
+2020,29,Ate 2 - Vitarte,234
+2020,30,Rimac 2 - Sporting Cristal,192
+2020,34,Arequipa 2 - Cerro Colorado,229
+2020,35,Huancayo,259
+2020,36,Pueblo Libre - Bertello,294
+2020,37,Chorrillos 6 - Universo 2,51
+2020,38,Trujillo 1 - El Golf,150
+2020,39,San Miguel La Paz 2,45
+2020,41,SJL 3 - Arabiscos,305
+2020,42,San Miguel La Paz 1,187
+2020,43,Surco 1 - Ambrosio,289
+2020,44,Trujillo 2 - Santa,187
+2020,45,Chorrillos 2 - Horizontes,136
+2020,47,Chorrillos 5 - Universo 1,151
+2020,48,Cusco 1 - Larapa,276
+2020,49,Arequipa 3 - Sachaca,139
+2020,50,Callao 2 - Lemos,210
+2020,51,SJL 4 - El Sol,292
+2020,52,Comas 2 - El Retablo,273
+2020,53,Carabayllo 2 - San Antonio,207
+2020,54,Ate 4 - Santa María,191
+2020,55,Los Olivos 2 - Santa Ana,332
+2020,56,Tarapoto 1 - Fonavi,275
+2020,57,Pucallpa 1 - Centenario,267
+2020,58,Cusco 2 - Huancaro,226
+2020,59,Moquegua 1 - Fundo El Gramadal,307
+2020,60,Piura 2 - Progreso,183
+2020,66,Tacna 2 - Pocollay,91
+2020,67,Ate 5 - Mayorazgo ,364
+2020,68,Callao 3 - Santa Rosa,269
+2020,69,San Juan de Miraflores,362
+2020,70,Juliaca,472
+2020,71,Arequipa 4 - Miraflores,206
+2020,72,Trujillo 3 - San Isidro,144
+2020,73,Villa el Salvador 2 - Vallejo,299
+2020,74,Huanuco - Amarilis,354
+2021,1,Arequipa 1 - Bustamante y Rivero,104
+2021,2,Callao 1 - Saenz Peña,75
+2021,3,SJL Campoy,89
+2021,4,SMP Canta Callao,129
+2021,5,SJL 2 - El Parque,97
+2021,6,Carabayllo Enace,97
+2021,7,Cercado 1 - Sanchez Pinillos,207
+2021,8,Chaclacayo,68
+2021,9,Chiclayo,113
+2021,10,Chimbote,137
+2021,11,Chincha,96
+2021,12,Chorrillos Villa,140
+2021,13,Comas 1 - Condorcanqui,85
+2021,14,Huacho,71
+2021,15,Ica,74
+2021,16,Chorrillos La Campiña,52
+2021,17,Los Olivos Villa Sol,161
+2021,18,Piura 1 - Los Ejidos,139
+2021,19,Ate Puruchuco,151
+2021,21,SMP Perú,194
+2021,22,San Miguel 1,166
+2021,23,San Miguel 2,35
+2021,24,Ate Santa Clara,109
+2021,25,Rímac Santo Toribio,87
+2021,26,Chorrillos Faisanes,162
+2021,27,Tacna,81
+2021,28,Villa El Salvador - Laderas de Villa,115
+2021,29,Ate 2 - Vitarte,114
+2021,30,Rímac Sporting Cristal,93
+2021,34,Arequipa 2 - Cerro Colorado,122
+2021,35,Huancayo,126
+2021,36,Bertello,312
+2021,37,Chorrillos Universo 2,11
+2021,38,Trujillo 1 - El Golf,84
+2021,39,San Miguel La Paz 2,15
+2021,41,SJL Arabiscos,260
+2021,42,San Miguel La Paz 1,106
+2021,43,Surco 1 - Ambrosio,343
+2021,44,Trujillo 2 - Santa,92
+2021,45,Chorrillos Horizontes,99
+2021,47,Chorrillos Universo 1,59
+2021,48,Cusco 1 - Larapa,185
+2021,49,Arequipa 3 - Sachaca,33
+2021,50,Callao 2 - Lemos,103
+2021,51,SJL 4 - El Sol,148
+2021,52,Comas 2 - El Retablo,222
+2021,53,Carabayllo 2 - San Antonio,142
+2021,54,Ate 4 - Santa María,86
+2021,55,Los Olivos 2 - Santa Ana,209
+2021,56,Tarapoto 1 - Fonavi,101
+2021,57,Pucallpa 1 - Centenario,129
+2021,58,Cusco 2 - Huancaro,153
+2021,59,Moquegua 1 - Fundo El Gramadal,140
+2021,60,Piura 2 - Progreso,101
+2021,66,Tacna 2 - Pocollay,50
+2021,67,Ate 5 - Mayorazgo ,196
+2021,68,Callao 3 - Santa Rosa,147
+2021,69,San Juan de Miraflores,193
+2021,70,Juliaca,157
+2021,71,Arequipa 4 - Miraflores,50
+2021,72,Trujillo 3 - San Isidro,106
+2021,73,Villa el Salvador 2 - Vallejo,107
+2021,74,Huanuco - Amarilis,171

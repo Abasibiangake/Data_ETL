@@ -1,0 +1,13 @@
+{
+    "jobName": "job_dtf_dwh_AOL_CHATBOT_CREDENCIALES_jp3",
+    "parameters": {
+      "connectionURL": "jdbc:sqlserver://172.35.30.7:1433;databaseName=PEA_TST;encrypt=false",
+      "table": "dbo.AOL_CHATBOT_CREDENCIALES",
+      "outputTableSpec": "tst-peinnovabi-data-storage:ds_dwh_raw3_sql.dwh_AOL_CHATBOT_CREDENCIALES",
+      "driverJars": "gs://driver-from-azuresql_net/mssql-jdbc-12.2.0.jre8.jar",
+      "bigQueryLoadingTemporaryDirectory": "gs://prueba_dataflow2",
+      "username": "usr_echuan",
+      "password": "mRA2f?dkwCWfmd5w"
+    }
+  }
+  
