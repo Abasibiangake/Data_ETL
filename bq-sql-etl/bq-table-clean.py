@@ -1,5 +1,6 @@
 
-
+import pandas as pd
+import numpy as np
 import time
 import os
 import csv
@@ -24,10 +25,9 @@ def get_table_schema(connection, table_name):
     with connection.cursor() as cursor:
         cursor.execute("EXEC sp_columns ?;", (table_name,))
         schema = cursor.fetchall()
-    # target_index = next((index for index, field in enumerate(schema) if field[2] == table_name), None)
-    # if target_index is None:
-    #     print ('this is the target index and value: ', target_index, target_index.values)
-    #     return []  # Return an empty list if the table_name is not found in the schema
+    target_index = next((index for index, field in enumerate(schema) if field[2] == table_name), None)
+    if target_index is None:
+        return []  # Return an empty list if the table_name is not found in the schema
     
     #if the schema is not empty. then we perform filtering operation on the schema
     #such table schema comprises of a list of arrays. In each array " 'PEA_TST', 'dbo', table_name" repeats it self  and it causes conflict. 
@@ -86,7 +86,24 @@ def create_table_if_not_exists(project_id, dataset_id, table_name, schema):
     table = client.create_table(table)  # API request
     print(f"Empty table '{table.project}.{table.dataset_id}.{table.table_id}' created in BigQuery.")
 
-# MySQL connection details
+def clean_data(df):
+    # Remove duplicates
+    df = df.drop_duplicates()
+
+    # Replace missing values with NaN
+    df = df.replace('', np.nan)
+
+    # Remove rows with missing values
+    df = df.dropna()
+
+    # Convert data types if needed
+    df['column_name'] = df['column_name'].astype(int)
+
+    # Perform additional cleaning and validation operations as necessary
+
+    return df
+
+# MsSQL connection details
 
 project_id = 'tst-peinnovabi-data-storage'
 dataset_id = 'ds_dwh_raw3_sql2'
@@ -133,5 +150,16 @@ for table_name in table_names:
         file.write(table_name + '\n')
         print('text file save')
     create_table_if_not_exists(project_id, dataset_id, bq_table_name, schema)
+
+    #clean data processing
+    query = f'SELECT * FROM [AOL-ORACARG-IN].dbo.{table_name}'
+    df = pd.read_sql(query, con=connection)
+
+    # Clean and validate the data
+    df = clean_data(df)
+
+    # After cleaning and validating the data, you can save it to a CSV file
+    cleaned_data_file = f'cleaned_{table_name}.csv'
+    df.to_csv(cleaned_data_file, index=False)
 
 connection.close()
